@@ -1,4 +1,0 @@
-#mikhah@SithMachine:~/rails/sample$ heroku config:get SENDGRID_USERNAME
-#app46368584@heroku.com
-#mikhah@SithMachine:~/rails/sample$ heroku config:get SENDGRID_PASSWORD
-#sr0vzou91586
